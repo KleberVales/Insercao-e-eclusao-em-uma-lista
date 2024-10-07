@@ -15,10 +15,10 @@ O problema consiste em realizar operações de inserção e exclusão em uma lis
     * Insert seguido de dois inteiros (índice e valor).\
     * Delete seguido de um inteiro (índice).
  
-  ### Formato de Saída:
+### Formato de Saída:
   Após todas as operações, a lista modificada deve ser impressa em uma única linha, com os elementos separados por espaços.
 
-  ### Exemplo de Entrada:
+### Exemplo de Entrada:
 ![imagens/entrada1.png](imagens/entrada1.png)
 
 ### Exemplo de Saída:
