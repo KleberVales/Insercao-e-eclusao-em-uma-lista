@@ -19,9 +19,9 @@ O problema consiste em realizar operações de inserção e exclusão em uma lis
   Após todas as operações, a lista modificada deve ser impressa em uma única linha, com os elementos separados por espaços.
 
 ### Exemplo de Entrada:
-![imagens/Entrada1.png](imagens/Entrada1.png)
+![Imagens/Entrada1.png](Imagens/Entrada1.png)
 
 ### Exemplo de Saída:
-![imagens/Entrada2.png](imagens/Entrada2.png)
+![Imagens/Entrada2.png](Imagens/Entrada2.png)
 
 Neste exemplo, o valor 23 é inserido na posição 5, e o elemento na posição 0 é excluído​
